@@ -1,7 +1,26 @@
 import java.util.*;
 
 class TestArrayCollection {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) { //Task2
+        ArrayCollection mydata = new ArrayCollection(10);
+        System.out.println(mydata.size());
+    }*/
+    
+    /*public static void main(String[] args) {
+        ArrayCollection mydata = new ArrayCollection(10); //Task3
+        Object d = input();
+        mydata.add(d);
+        //for (int i = 1; i <= 4; i++) {mydata.add(input());}
+        System.out.println(mydata.size());
+    }
+
+    private static Object input() {
+        Scanner in = new Scanner(System.in);
+        String s = in.nextLine();
+        return s;
+    }*/
+
+    /*public static void main(String[] args) { //TaskFinish
         ArrayCollection mydata = new ArrayCollection(10);
         // System.out.println(mydata.size());
         // Object data = input();
@@ -23,5 +42,5 @@ class TestArrayCollection {
         Scanner in = new Scanner(System.in);
         String s = in.nextLine();
         return s;
-    }
+    }*/
 }
